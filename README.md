@@ -12,6 +12,3 @@ What I Learned:
 
 Why Tic Tac Toe?
 Tic Tac Toe is more than just a game; it's a foundational exercise in understanding how to program simple games. It reminds us that even the most straightforward games require a good amount of strategic thinking and design.
-If you’re curious about the code or want to play a round, feel free to reach out! Let's connect and maybe collaborate on something awesome together! 🤝
-
-Hosted Link : https://lnkd.in/eZTSAr5Z
